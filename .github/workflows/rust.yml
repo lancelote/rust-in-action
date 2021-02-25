@@ -1,0 +1,28 @@
+name: Rust
+
+on:
+  push:
+    branches: [ main ]
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  build:
+    container: rustlang/rust:nightly
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup
+      run: rustup component add clippy rustfmt
+    - name: Build
+      run: cargo build --verbose
+    - name: Run tests
+      run: cargo test --verbose
+    - name: Format
+      run: cargo fmt --all -- --check
+    - name: Run check
+      run: cargo check
+    - name: Run clippy
+      run: cargo clippy --all-targets --all-features -- -D warnings
