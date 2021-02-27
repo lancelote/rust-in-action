@@ -1,6 +1,7 @@
 # rust-in-action
 
-My experiments with examples from "[Rust in Action](https://www.manning.com/books/rust-in-action)" book by Tim McNamara
+- My experiments with examples from "[Rust in Action](https://www.manning.com/books/rust-in-action)" book by Tim McNamara
+- [Original book code examples](https://github.com/rust-in-action/code)
 
 ## TOC
 
