@@ -5,7 +5,7 @@
 
 ## TOC
 
-- [ ] Chapter 1: Introducing Rust
+- [x] Chapter 1: Introducing Rust
   - [Basic Hello World](ch01/src/bin/hello_world.rs)
   - [Unicode Support](ch01/src/bin/multilanguage_hello.rs)
   - [CSV Processing](ch01/src/bin/csv_processing.rs)
