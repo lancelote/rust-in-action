@@ -12,6 +12,7 @@
 - [ ] Chapter 2: Language Foundations
   - [Defining and Calling Functions](ch02/src/bin/function_basics.rs)
   - [Integer Base Notation](ch02/src/bin/integer_base.rs)
+  - [Check for Possible Type Conversion](ch02/src/bin/check_type.rs)
 - [ ] Chapter 3: Compound Data Types
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
 - [ ] Chapter 5: Data in Depth
