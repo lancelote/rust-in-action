@@ -10,6 +10,8 @@
   - [Unicode Support](ch01/src/bin/multilanguage_hello.rs)
   - [CSV Processing](ch01/src/bin/csv_processing.rs)
 - [ ] Chapter 2: Language Foundations
+  - [Defining and Calling Functions](ch02/src/bin/function_basics.rs)
+  - [Integer Base Notation](ch02/src/bin/integer_base.rs)
 - [ ] Chapter 3: Compound Data Types
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
 - [ ] Chapter 5: Data in Depth
