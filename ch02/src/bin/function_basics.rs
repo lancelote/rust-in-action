@@ -1,3 +1,4 @@
+#[allow(clippy::many_single_char_names)]
 fn main() {
     let a = 10;
     let b: i32 = 20;
