@@ -17,6 +17,7 @@
   - [NaNs](ch02/src/bin/nan_usage.rs)
   - [Complex Numbers](ch02/src/bin/complex_numbers.rs)
   - [Simple Iteration](ch02/src/bin/iteration.rs)
+  - [Iteration with `iter()`](ch02/src/bin/iter_iteration.rs)
 - [ ] Chapter 3: Compound Data Types
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
 - [ ] Chapter 5: Data in Depth
