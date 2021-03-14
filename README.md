@@ -15,6 +15,7 @@
   - [Check for Possible Type Conversion](ch02/src/bin/check_type.rs)
   - [Explicit Floats Comparison](ch02/src/bin/float_compare.rs)
   - [NaNs](ch02/src/bin/nan_usage.rs)
+  - [Complex Numbers](ch02/src/bin/complex_numbers.rs)
 - [ ] Chapter 3: Compound Data Types
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
 - [ ] Chapter 5: Data in Depth
