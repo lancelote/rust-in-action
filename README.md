@@ -21,6 +21,7 @@
   - [Iteration with Ownership](ch02/src/bin/own_iteration.rs)
   - [While Loop](ch02/src/bin/while_loop.rs)
   - [Match Example](ch02/src/bin/match_example.rs)
+  - [Mandelbrot Set Printing](ch02/src/bin/mandelbrot.rs)
 - [ ] Chapter 3: Compound Data Types
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
 - [ ] Chapter 5: Data in Depth
