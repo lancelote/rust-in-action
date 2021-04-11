@@ -15,10 +15,10 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Setup
-      run: rustup component add clippy rustfmt
+      run: rustup toolchain install nightly --allow-downgrade -c clippy rustfmt
     - name: Build
       run: cargo build --verbose
-    - name: Run tests
+    - name: Tests
       run: cargo test --verbose
     - name: Format
       run: cargo fmt --all -- --check
