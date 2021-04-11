@@ -25,6 +25,7 @@
   - [Basic Lifetimes](ch02/src/bin/basic_lifetimes.rs)
   - [Basic Generics](ch02/src/bin/basic_generics.rs)
   - [grep-lite](ch02/src/bin/grep_lite.rs)
+  - [Array Basics](ch02/src/bin/array_basics.rs)
 - [ ] Chapter 3: Compound Data Types
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
 - [ ] Chapter 5: Data in Depth
