@@ -27,6 +27,7 @@
   - [grep-lite](ch02/src/bin/grep_lite.rs)
   - [Array Basics](ch02/src/bin/array_basics.rs)
   - [grep-lite with Vectors](ch02/src/bin/grep_lite_v2.rs)
+  - [grep-lite with Regexp](ch02/src/bin/grep_lite_v3.rs)
 - [ ] Chapter 3: Compound Data Types
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
 - [ ] Chapter 5: Data in Depth
