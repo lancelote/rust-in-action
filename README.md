@@ -30,6 +30,7 @@
   - [grep-lite with Regexp](ch02/src/bin/grep_lite_v3.rs)
   - [grep-line with CLI](ch02/src/bin/grep_lite_v4.rs)
   - [Reading Files](ch02/src/bin/reading_files.rs)
+  - [Iterating over File Lines](ch02/src/bin/file_lines.rs)
 - [ ] Chapter 3: Compound Data Types
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
 - [ ] Chapter 5: Data in Depth
