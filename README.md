@@ -32,6 +32,7 @@
   - [Reading Files](ch02/src/bin/reading_files.rs)
   - [Iterating over File Lines](ch02/src/bin/file_lines.rs)
   - [grep-lite with Files](ch02/src/bin/grep_lite_v5.rs)
+  - [grep-lite with STDIN](ch02/src/bin/grep_lite_v6.rs)
 - [ ] Chapter 3: Compound Data Types
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
 - [ ] Chapter 5: Data in Depth
