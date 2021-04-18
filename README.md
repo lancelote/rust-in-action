@@ -9,7 +9,7 @@
   - [Basic Hello World](ch01/src/bin/hello_world.rs)
   - [Unicode Support](ch01/src/bin/multilanguage_hello.rs)
   - [CSV Processing](ch01/src/bin/csv_processing.rs)
-- [ ] Chapter 2: Language Foundations
+- [x] Chapter 2: Language Foundations
   - [Defining and Calling Functions](ch02/src/bin/function_basics.rs)
   - [Integer Base Notation](ch02/src/bin/integer_base.rs)
   - [Check for Possible Type Conversion](ch02/src/bin/check_type.rs)
