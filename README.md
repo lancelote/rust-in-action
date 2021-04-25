@@ -34,6 +34,8 @@
   - [grep-lite with Files](ch02/src/bin/grep_lite_v5.rs)
   - [grep-lite with STDIN](ch02/src/bin/grep_lite_v6.rs)
 - [ ] Chapter 3: Compound Data Types
+  - [Basic Struct](ch03/src/bin/basic_struct.rs)
+  - [New Type Pattern](ch03/src/bin/new_type.rs)
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
 - [ ] Chapter 5: Data in Depth
 - [ ] Chapter 6: Memory
