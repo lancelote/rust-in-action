@@ -38,6 +38,7 @@
   - [New Type Pattern](ch03/src/bin/new_type.rs)
   - [File API](ch03/src/bin/file_api.rs)
   - [`new()` Method](ch03/src/bin/new_method.rs)
+  - [File API with Methods](ch03/src/bin/file_api_v2.rs)
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
 - [ ] Chapter 5: Data in Depth
 - [ ] Chapter 6: Memory
