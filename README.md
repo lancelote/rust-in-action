@@ -44,6 +44,7 @@
   - [Enums](ch03/src/bin/enums.rs)
   - [Internal State with Enums](ch03/src/bin/internal_state.rs)
   - [Basic Traits](ch03/src/bin/basic_traits.rs)
+  - [Display Implementation](ch03/src/bin/display_impl.rs)
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
 - [ ] Chapter 5: Data in Depth
 - [ ] Chapter 6: Memory
