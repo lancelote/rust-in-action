@@ -1,7 +1,7 @@
 use std::fmt;
 use std::fmt::{Display, Formatter};
 
-#[derive(Debug,PartialEq)]
+#[derive(Debug, PartialEq)]
 enum FileState {
     Open,
     Closed,

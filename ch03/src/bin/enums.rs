@@ -10,7 +10,7 @@ type Message = String;
 fn parse_log(line: &str) -> (Event, Message) {
     let parts: Vec<_> = line.splitn(2, ' ').collect();
     if parts.len() == 1 {
-        return (Event::Unknown, String::from(line))
+        return (Event::Unknown, String::from(line));
     }
 
     let event = parts[0];
