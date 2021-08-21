@@ -43,6 +43,7 @@
   - [Return Type](ch03/src/bin/return_type.rs)
   - [Enums](ch03/src/bin/enums.rs)
   - [Internal State with Enums](ch03/src/bin/internal_state.rs)
+  - [Basic Traits](ch03/src/bin/basic_traits.rs)
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
 - [ ] Chapter 5: Data in Depth
 - [ ] Chapter 6: Memory
