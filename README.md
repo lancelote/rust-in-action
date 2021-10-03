@@ -33,7 +33,7 @@
   - [Iterating over File Lines](ch02/src/bin/file_lines.rs)
   - [grep-lite with Files](ch02/src/bin/grep_lite_v5.rs)
   - [grep-lite with STDIN](ch02/src/bin/grep_lite_v6.rs)
-- [ ] Chapter 3: Compound Data Types
+- [x] Chapter 3: Compound Data Types
   - [Basic Struct](ch03/src/bin/basic_struct.rs)
   - [New Type Pattern](ch03/src/bin/new_type.rs)
   - [File API](ch03/src/bin/file_api.rs)
