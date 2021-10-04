@@ -21,8 +21,6 @@ fn main() {
     read(&file, &mut buffer);
 
     unsafe {
-        if ERROR != 0 {
-            panic!("An error has occurred!");
-        }
+        assert_ne!(ERROR, 0, "An error has occurred!");
     }
 }
