@@ -50,6 +50,7 @@
 - [ ] Chapter 4: Lifetimes, Ownership and Borrowing
   - [Integer-based CubeSats](ch04/src/bin/int_cube_sats.rs)
   - [Struct-based CubeSats](ch04/src/bin/struct_cube_sats.rs)
+  - [CubeSat Messages](ch04/src/bin/cube_sat_messages.rs)
 - [ ] Chapter 5: Data in Depth
 - [ ] Chapter 6: Memory
 - [ ] Chapter 7: Files & Storage
