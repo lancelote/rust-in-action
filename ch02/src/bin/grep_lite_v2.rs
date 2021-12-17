@@ -30,13 +30,12 @@ through millions of pages?";
             let upper_bound = match_line_index + context_line_num;
 
             if (i >= lower_bound) && (i <= upper_bound) {
-                let line_as_string;
 
-                if i == *match_line_index {
-                    line_as_string = line.replace(needle, found_needle.as_str());
+                let line_as_string = if i == *match_line_index {
+                    line.replace(needle, found_needle.as_str())
                 } else {
-                    line_as_string = String::from(line);
-                }
+                    String::from(line)
+                };
 
                 let context_item = (i, line_as_string);
                 contexts[j].push(context_item);
@@ -51,4 +50,6 @@ through millions of pages?";
         }
         println!();
     }
+
+    
 }
