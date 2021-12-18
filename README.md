@@ -53,6 +53,7 @@
   - [CubeSat Messages](ch04/src/bin/cube_sat_messages.rs)
   - [Fewer Long-lived Values](ch04/src/bin/fewer_long_lived.rs)
   - [Implementing Copy & Clone](ch04/src/bin/implement_copy.rs)
+  - [Using Copy & Clone](ch04/src/bin/using_copy.rs)
 - [ ] Chapter 5: Data in Depth
 - [ ] Chapter 6: Memory
 - [ ] Chapter 7: Files & Storage
