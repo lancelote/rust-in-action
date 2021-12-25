@@ -47,7 +47,7 @@
   - [Display Implementation](ch03/src/bin/display_impl.rs)
   - [Using `pub`](ch03/src/bin/pub_usage.rs)
   - [Documentation](ch03/src/bin/docs.rs)
-- [ ] Chapter 4: Lifetimes, Ownership and Borrowing
+- [x] Chapter 4: Lifetimes, Ownership and Borrowing
   - [Integer-based CubeSats](ch04/src/bin/int_cube_sats.rs)
   - [Struct-based CubeSats](ch04/src/bin/struct_cube_sats.rs)
   - [CubeSat Messages](ch04/src/bin/cube_sat_messages.rs)
