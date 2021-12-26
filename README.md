@@ -57,6 +57,7 @@
   - [Basic `Rc` Usage](ch04/src/bin/rc_usage.rs)
   - [Basic `RefCell` Usage](ch04/src/bin/refcell_usage.rs)
 - [ ] Chapter 5: Data in Depth
+  - [Bit Sequence](ch05/src/bin/bit_seq.rs)
 - [ ] Chapter 6: Memory
 - [ ] Chapter 7: Files & Storage
 - [ ] Chapter 8: Networking
