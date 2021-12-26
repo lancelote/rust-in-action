@@ -58,6 +58,7 @@
   - [Basic `RefCell` Usage](ch04/src/bin/refcell_usage.rs)
 - [ ] Chapter 5: Data in Depth
   - [Bit Sequence](ch05/src/bin/bit_seq.rs)
+  - [Interpret Float as Int](ch05/src/bin/float_as_int.rs)
 - [ ] Chapter 6: Memory
 - [ ] Chapter 7: Files & Storage
 - [ ] Chapter 8: Networking
