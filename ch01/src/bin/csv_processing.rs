@@ -14,7 +14,8 @@ fn main() {
             continue;
         }
 
-        let fields: Vec<&str> = record.split(',').map(|field| field.trim()).collect();
+        let fields: Vec<&str> =
+            record.split(',').map(|field| field.trim()).collect();
 
         if cfg!(debug_assertions) {
             eprintln!("debug: {:?} -> {:?}", record, fields);
