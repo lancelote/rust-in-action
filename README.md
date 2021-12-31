@@ -61,6 +61,7 @@
   - [Interpret Float as Int](ch05/src/bin/float_as_int.rs)
   - [Integer Overflow](ch05/src/bin/integer_overflow.rs)
   - [Endianness](ch05/src/bin/endianness.rs)
+  - [From Bit Pattern to Float](ch05/src/bin/from_bits.rs)
 - [ ] Chapter 6: Memory
 - [ ] Chapter 7: Files & Storage
 - [ ] Chapter 8: Networking
