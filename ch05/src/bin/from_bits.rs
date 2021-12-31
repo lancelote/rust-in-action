@@ -46,6 +46,7 @@ fn decode_sign(sign_bit: u32) -> f32 {
 }
 
 fn decode_exponent(exponent_bits: u32) -> f32 {
+    // to i32 to allow a negative value once BIAS is subtracted
     let exponent = (exponent_bits as i32) - BIAS;
     RADIX.powf(exponent as f32)
 }
