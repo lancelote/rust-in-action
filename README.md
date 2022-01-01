@@ -62,6 +62,7 @@
   - [Integer Overflow](ch05/src/bin/integer_overflow.rs)
   - [Endianness](ch05/src/bin/endianness.rs)
   - [From Bit Pattern to Float](ch05/src/bin/from_bits.rs)
+  - [Fixed-point Number Format](ch05/src/bin/q_format.rs)
 - [ ] Chapter 6: Memory
 - [ ] Chapter 7: Files & Storage
 - [ ] Chapter 8: Networking
