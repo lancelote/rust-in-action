@@ -56,7 +56,7 @@
   - [Using Copy & Clone](ch04/src/bin/using_copy.rs)
   - [Basic `Rc` Usage](ch04/src/bin/rc_usage.rs)
   - [Basic `RefCell` Usage](ch04/src/bin/refcell_usage.rs)
-- [ ] Chapter 5: Data in Depth
+- [x] Chapter 5: Data in Depth
   - [Bit Sequence](ch05/src/bin/bit_seq.rs)
   - [Interpret Float as Int](ch05/src/bin/float_as_int.rs)
   - [Integer Overflow](ch05/src/bin/integer_overflow.rs)
