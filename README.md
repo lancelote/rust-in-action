@@ -66,6 +66,7 @@
   - [Random Probabilities Generator](ch05/src/bin/random_bytes.rs)
   - [CPU Emulation](ch05/src/bin/cpu_emulation.rs)
   - [CPU with Memory](ch05/src/bin/cpu_memory.rs)
+  - [CPU with Stack](ch05/src/bin/cpu_stack.rs)
 - [ ] Chapter 6: Memory
 - [ ] Chapter 7: Files & Storage
 - [ ] Chapter 8: Networking
