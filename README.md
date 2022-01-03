@@ -64,6 +64,7 @@
   - [From Bit Pattern to Float](ch05/src/bin/from_bits.rs)
   - [Fixed-point Number Format](ch05/src/bin/q_format.rs)
   - [Random Probabilities Generator](ch05/src/bin/random_bytes.rs)
+  - [CPU Emulation](ch05/src/bin/cpu_emulation.rs)
 - [ ] Chapter 6: Memory
 - [ ] Chapter 7: Files & Storage
 - [ ] Chapter 8: Networking
