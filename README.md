@@ -69,6 +69,7 @@
   - [CPU with Stack](ch05/src/bin/cpu_stack.rs)
 - [ ] Chapter 6: Memory
   - [Mimicking Pointers](ch06/src/bin/mimicking_pointers.rs)
+  - [Compare References & Boxes](ch06/src/bin/ref_and_box.rs)
 - [ ] Chapter 7: Files & Storage
 - [ ] Chapter 8: Networking
 - [ ] Chapter 9: Time and Time Keeping
