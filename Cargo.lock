@@ -69,6 +69,10 @@ name = "ch05"
 version = "0.1.0"
 
 [[package]]
+name = "ch06"
+version = "0.1.0"
+
+[[package]]
 name = "clap"
 version = "3.0.0-beta.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
